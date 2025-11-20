@@ -1,4 +1,34 @@
 
+kh1 align="center">Hey Everyone I'm Aditya Jaiswal</h1>
+1
+2
+3
+<div align="center">
+4
+5
+6
+7
+<img src="https://github.com/main/Banner.png" alt="DevOps Shack Banner"> </div>
+I
+<h3 align="center">A passionate DevOps Engineer from India. I work in the Corporate IT Sector and in my free time I make YouTube videos at <a href="https://www.youtube.com/@devopsshack" target="_blank">DevOps Shack</a></h3>
+<p align="center">
+<a href="https://github.com/jaiswaladi246">
+<img src="https://img.shields.io/github/followers/jaiswaladi246?label=Follow&style=social" />
+8
+9
+10
+11
+12
+</a>
+13
+14
+15
+16
+<a href="https://linkedin.com/in/adityajaiswal7">
+17
+<img src="https://img.shields.io/badge/LinkedIn-Aditya%20Jaiswal-blue?logo-linkedin&style=flat-square" />
+<a href="https://www.youtube.com/@devops shack">
+<img src="https://img.shields.io/youtube/channel/subscribers/UC1XLb_DoX2eNWGKjkh2epwA?style=social" /> </a>
 kh1 align="center">Hey Everyone I'm Ashish Pandey</h1>
 <div align="center">
 
