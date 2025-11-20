@@ -1,39 +1,23 @@
-align="center">Hey Everyone I'm Aditya Jaiswal</h1>
+align="center">Hey Everyone I'm Ashish Pandey</h1>
 
 <div align="center">
 <img src="Banner.png" alt="DevOps Shack Banner"> </div>
 I
-<h3 align="center">A passionate DevOps Engineer from India. I work in the Corporate IT Sector and in my free time I make YouTube videos at <a href="https://www.youtube.com/@devopsshack" target="_blank">DevOps Shack</a></h3>
+<h3 align="center">A passionate DevOps Engineer from India. I work in the Corporate IT Sector and in my free time I make YouTube videos at <a>DevOps Shack</a></h3>
 <p align="center">
-<a href="https://github.com/jaiswaladi246">
-<img src="https://img.shields.io/github/followers/jaiswaladi246?label=Follow&style=social" />
+
 
 </a>
-<a href="https://linkedin.com/in/adityajaiswal7">
-17
-<img src="https://img.shields.io/badge/LinkedIn-Aditya%20Jaiswal-blue?logo-linkedin&style=flat-square" />
-<a href="https://www.youtube.com/@devops shack">
-<img src="https://img.shields.io/youtube/channel/subscribers/UC1XLb_DoX2eNWGKjkh2epwA?style=social" /> </a>
-<img src="https://img.shields.io/badge/LinkedIn-Aditya%20Jaiswal-blue?logo-linkedin&style=flat-square" />
-<a href="https://www.youtube.com/@devops shack">
-<img src="https://img.shields.io/youtube/channel/subscribers/UC1XLb_DoX2eNWGKjkh2epwA?style=social" /> </a>
-kh1 align="center">Hey Everyone I'm Ashish Pandey</h1>
+<a href="https://www.youtube.com/@ashishgen">
+ align="center">Hey Everyone I'm Ashish Pandey</h1>
 <div align="center">
 
-<img src="https://github.com/jaiswaladi246/jaiswaladi246/blob/main/Banner.png" alt="DevOps Shack Banner"> </div>
+
 I
-<h3 align="center">A passionate DevOps Engineer from India. I work in the Corporate IT Sector and in my free time I make YouTube videos at <a href="https://www.youtube.com/@devopsshack" target="_blank">DevOps Shack</a></h3>
+<h3 align="center">A passionate DevOps Engineer from India. I work in the Corporate IT Sector and in my free time I make YouTube videos at <a href="https://www.youtube.com/@devopsshack" target="_blank">ashishgen</a></h3>
 <p align="center">
-<a href="https://github.com/jaiswaladi246">
-<img src="https://img.shields.io/github/followers/jaiswaladi246?label=Follow&style=social" />
 
-</a>
-<a href="https://linkedin.com/in/adityajaiswal7">
-
-<img src="https://img.shields.io/badge/LinkedIn-Aditya%20Jaiswal-blue?logo-linkedin&style=flat-square" />
-<a href="https://www.youtube.com/@devops shack">
-<img src="https://img.shields.io/youtube/channel/subscribers/UC1XLb_DoX2eNWGKjkh2epwA?style=social" /> </a>
-
+<img sr
 ## About Me 🧑‍💻
 
 Hi, I'm [ASHISH PANDEY](https://yourwebsite.com) 👋, a passionate **DevOps Engineer** who loves automating workflows, building scalable infrastructures, and improving software delivery processes. I specialize in cloud technologies, CI/CD pipelines, and containerization.
