@@ -36,7 +36,7 @@ I love collaborating on open-source projects and am always looking to learn new 
 - [Project 2](https://github.com/ashishgen/Multi-Tier-Website-Deployment-on-AWS.git) - Project 2: Multi-Tier Website Deployment on AWS (March 2025)
 •Deployed a PHP-based website with EC2 Auto Scaling and MySQL RDS for high availability
 •Configured traffic flow and security rules to enable seamless communication between web and DB tiers
-- [Project 3](https://github.com/your-username/project-3) - Project 3: DevOps Lifecycle Implementation (April 2025)
+- [Project 3](https://github.com/ashishgen/DevOps-Lifecycle-Implementation.git) - Project 3: DevOps Lifecycle Implementation (April 2025)
 •Implemented CI/CD pipeline using Git, Jenkins, Terraform, Ansible, Docker, and Kubernetes
 •Implemented automated deployment and scaling strategies for containerized applications to ensure rapid and
 dependable releases
