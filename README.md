@@ -1,107 +1,76 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ashish Pandey's Profile</title>
-</head>
-<body>
-    <h1 align="center">Hey Everyone</h1>
-    <div align="center">
-        <p>I'm Ashish Pandey</p>
-        <img src="Banner.png" alt="DevOpsShack Banner">
-    </div>
+# Welcome to My GitHub Profile 👋
 
-    <h3 align="center">
-        A passionate DevOps Engineer from India. I work in the Corporate IT Sector, and in my free time I make YouTube videos at <a href="https://www.youtube.com/@devopsshack" target="_blank">DevOps Shack</a>
-    </h3>
+![Banner](https://example.com/your-banner-image.png)  <!-- Replace with your own banner image URL -->
 
-    <p align="center">
-        <a href="https://github.com/jaiswaladi246">
-            <img src="https://img.shields.io/github/followers/jaiswaladi246?label=Follow&style=social" />
-        </a>
-        <a href="https://www.youtube.com/@devopsshack">
-            <img src="https://img.shields.io/youtube/channel/subscribers/UC1XLb_DoX2eNWGKjkh2epwA?style=social" />
-        </a>
-        <a href="https://www.linkedin.com/in/ashish-pandey-620a86372">
-            <img src="https://img.shields.io/badge/LinkedIn-Ashish%20Pandey-blue?logo=linkedin&style=flat-square" />
-        </a>
-    </p>
+## About Me 🧑‍💻
 
-    <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+Hi, I'm [Your Name](https://yourwebsite.com) 👋, a passionate **DevOps Engineer** who loves automating workflows, building scalable infrastructures, and improving software delivery processes. I specialize in cloud technologies, CI/CD pipelines, and containerization.
 
-    <p align="left">
-        <img src="https://komarev.com/ghpvc/?username=jaiswaladi246&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-    </p>
+🔧 **Tech Stack:**
+- **Cloud:** AWS, Azure, GCP
+- **CI/CD:** Jenkins, GitLab CI, CircleCI
+- **Containerization:** Docker, Kubernetes
+- **Scripting:** Bash, Python
+- **Monitoring & Logging:** Prometheus, Grafana, ELK Stack
+- **Infrastructure as Code (IaC):** Terraform, CloudFormation
 
-    <p>All of my projects are available at <a href="https://github.com/jaiswaladi246" target="_blank">GitHub</a></p>
+I love collaborating on open-source projects and am always looking to learn new things and share knowledge with others.
 
-    <h3 align="left">Connect with me:</h3>
-    <p align="left">
-        <a href="https://linkedin.com/in/adityajaiswal7" target="_blank">
-            <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-        </a>
-        <a href="https://instagram.com/devopsshack" target="_blank">
-            <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-        </a>
-        <a href="https://www.youtube.com/channel/UC1XLb_DoX2eNWGKjkh2epwA" target="_blank">
-            <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
-        </a>
-    </p>
+---
 
-    <h3 align="left">Languages and Tools:</h3>
-    <p align="left">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" />
-        <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" />
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" />
-        <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" height="40" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" />
-        <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40" />
-        <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" height="40" />
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" />
-        <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" width="40" height="40" />
-        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40" />
-        <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" width="40" height="40" />
-    </p>
+## My Stats 📊
 
-    <p>
-        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaiswaladi246&show_icons=true&locale=en&layout=compact&theme=vue&hide_border=true" alt="Top Langs" />
-    </p>
-    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaiswaladi246&show_icons=true&locale=en&theme=vue&hide_border=true" alt="GitHub Stats" /></p>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&count_private=true&hide=prs)](https://github.com/your-username)
 
-    <h3>GitHub Contribution Streak</h3>
-    <p>
-        <img src="https://img.shields.io/badge/GitHub%20Streak-Active-brightgreen?logo=github&style-for-the-badge" />
-    </p>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&langs_count=8)](https://github.com/your-username)
 
-    <h3>Top Contributed Repo</h3>
-    <p>
-        <img src="https://github-contributor-stats.vercel.app/api?username=jaiswaladi246&limit=5&theme=flat&combine_all_yearly_contributions=true" />
-    </p>
+---
 
-    <h3>About Me & Open to Collaborations</h3>
-    <p>
-        Available for **Guest Sessions / Webinars**<br>
-        Open to **Project Collaborations / YouTube Collabs**<br>
-        Offering **DevOps Consulting / Mentorship**
-    </p>
+## 📣 Let's Connect!
 
-    <p>Let's chat: <a href="mailto:office@devopsshack.com">office@devopsshack.com</a></p>
-    <blockquote>
-        <p>"Helping people crack DevOps with real-world knowledge. Let's build and automate the future, one pipeline at a time!"</p>
-    </blockquote>
+- **Twitter:** [@your_twitter_handle](https://twitter.com/your_twitter_handle)
+- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/your-linkedin)
+- **Personal Website:** [yourwebsite.com](https://yourwebsite.com)
+- **Blog:** [yourblog.com](https://yourblog.com)
 
-    <p>
-        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40" />
-        <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" width="40" height="40" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" />
-    </p>
-</body>
-</html>
+---
+
+## 🚀 Latest Projects
+
+- [Project 1](https://github.com/your-username/project-1) - A brief description of what this project is about.
+- [Project 2](https://github.com/your-username/project-2) - Another project description showcasing your skills.
+- [Project 3](https://github.com/your-username/project-3) - A cool automation or DevOps-related project.
+
+Feel free to explore and star ⭐ any repositories you find interesting!
+
+---
+
+## 📈 My GitHub Activity
+
+![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=your-username&theme=react)
+
+---
+
+## 🏆 Achievements
+
+- 🔑 **DevOps Certified** - AWS Certified Solutions Architect
+- 🏅 Open-source contributor to several projects in DevOps and cloud automation.
+- 💡 Actively learning new tools like **ArgoCD**, **Terraform Cloud**, and **Helm**.
+
+---
+
+## 💬 Ask Me Anything!
+
+I’m always open to discussions related to DevOps, automation, cloud computing, and more. Feel free to reach out via any of the channels above!
+
+---
+
+### 📱 Social Media Badges
+
+- ![Twitter Badge](https://img.shields.io/twitter/follow/your_twitter_handle?label=Follow&style=social) 
+- ![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin) 
+- ![GitHub Badge](https://img.shields.io/github/followers/your-username?label=Follow&style=social) 
+
+---
+
+> "The best way to predict the future is to invent it." - Alan Kay
