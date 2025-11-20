@@ -30,7 +30,7 @@ I love collaborating on open-source projects and am always looking to learn new 
 
 ## 🚀 Latest Projects
 
-- [Project 1](https://github.com/your-username/project-1) - Project 1: Website Orchestration on AWS (July 2025)
+- [Project 1](https://github.com/ashishgen/AWS_Project-1-Website-Orchestration.git) - Project 1: Website Orchestration on AWS (July 2025)
 •Orchestrated a website with Auto Scaling and RDS to ensure high availability and reduced deployment time
 •Configured Elastic Beanstalk, Security Groups, and scaling policies for secure, scalable operations
 - [Project 2](https://github.com/your-username/project-2) - Project 2: Multi-Tier Website Deployment on AWS (March 2025)
