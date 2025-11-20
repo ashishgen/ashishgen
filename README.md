@@ -1,4 +1,4 @@
-align="center">Hey Everyone I'm Ashish Pandey</h1>
+align="center"<h1>Hey Everyone I'm Ashish Pandey</h1>
 
 <div align="center">
 <img src="Banner.png" alt="DevOps Shack Banner"> </div>
