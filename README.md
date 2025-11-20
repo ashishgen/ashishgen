@@ -20,13 +20,6 @@ Hi, I'm [ASHISH PANDEY](https://yourwebsite.com) 👋, a passionate **DevOps Eng
 
 I love collaborating on open-source projects and am always looking to learn new things and share knowledge with others.
 
----
-
-## My Stats 📊
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&count_private=true&hide=prs)](https://github.com/your-username)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&langs_count=8)](https://github.com/your-username)
 
 ---
 
