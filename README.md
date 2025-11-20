@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile 👋
 
-![Banner](https://example.com/your-banner-image.png)  <!-- Replace with your own banner image URL -->
+![Banner](Banner.png)  <!-- Replace with your own banner image URL -->
 
 ## About Me 🧑‍💻
 
