@@ -31,10 +31,23 @@ I love collaborating on open-source projects and am always looking to learn new 
 
 ## 🚀 Latest Projects
 
-- [Project 1](https://github.com/your-username/project-1) - A brief description of what this project is about.
-- [Project 2](https://github.com/your-username/project-2) - Another project description showcasing your skills.
-- [Project 3](https://github.com/your-username/project-3) - A cool automation or DevOps-related project.
-
+- [Project 1](https://github.com/your-username/project-1) - Project 1: Website Orchestration on AWS (July 2025)
+•Orchestrated a website with Auto Scaling and RDS to ensure high availability and reduced deployment time
+•Configured Elastic Beanstalk, Security Groups, and scaling policies for secure, scalable operations
+- [Project 2](https://github.com/your-username/project-2) - Project 2: Multi-Tier Website Deployment on AWS (March 2025)
+•Deployed a PHP-based website with EC2 Auto Scaling and MySQL RDS for high availability
+•Configured traffic flow and security rules to enable seamless communication between web and DB tiers
+- [Project 3](https://github.com/your-username/project-3) - Project 3: DevOps Lifecycle Implementation (April 2025)
+•Implemented CI/CD pipeline using Git, Jenkins, Terraform, Ansible, Docker, and Kubernetes
+•Implemented automated deployment and scaling strategies for containerized applications to ensure rapid and
+dependable releases
+- [Project 3](https://github.com/your-username/project-4) - Project 4: Containerized Application Deployment (May 2025)
+•Automated deployment and scaling across multiple workers using Jenkins, Docker, Kubernetes, and Java
+•Achieved seamless operations without changes to existing Docker containers in test environments
+ releases
+- [Project 3](https://github.com/your-username/project-5) -  Project 5: Azure Administrator Project Az (August 2025)
+•Deployed three web pages with Application Gateway, Traffic Manager, and VNet Peering across regions
+•Integrated GitHub-based deployments with scripts to enable secure, multi-region web hosting
 Feel free to explore and star ⭐ any repositories you find interesting!
 
 ---
