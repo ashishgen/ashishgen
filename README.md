@@ -8,7 +8,7 @@ kh1 align="center">Hey Everyone I'm Aditya Jaiswal</h1>
 5
 6
 7
-<img src="https://github.com/main/Banner.png" alt="DevOps Shack Banner"> </div>
+<img src="Banner.png" alt="DevOps Shack Banner"> </div>
 I
 <h3 align="center">A passionate DevOps Engineer from India. I work in the Corporate IT Sector and in my free time I make YouTube videos at <a href="https://www.youtube.com/@devopsshack" target="_blank">DevOps Shack</a></h3>
 <p align="center">
