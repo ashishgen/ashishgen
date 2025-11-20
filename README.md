@@ -6,18 +6,6 @@ I
 <h3 align="center">A passionate DevOps Engineer from India. I work in the Corporate IT Sector and in my free time I make YouTube videos at <a>DevOps Shack</a></h3>
 <p align="center">
 
-
-</a>
-<a href="https://www.youtube.com/@ashishgen">
- align="center">Hey Everyone I'm Ashish Pandey</h1>
-<div align="center">
-
-
-I
-<h3 align="center">A passionate DevOps Engineer from India. I work in the Corporate IT Sector and in my free time I make YouTube videos at <a href="https://www.youtube.com/@devopsshack" target="_blank">ashishgen</a></h3>
-<p align="center">
-
-<img sr
 ## About Me 🧑‍💻
 
 Hi, I'm [ASHISH PANDEY](https://yourwebsite.com) 👋, a passionate **DevOps Engineer** who loves automating workflows, building scalable infrastructures, and improving software delivery processes. I specialize in cloud technologies, CI/CD pipelines, and containerization.
