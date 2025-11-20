@@ -4,7 +4,7 @@
 
 ## About Me 🧑‍💻
 
-Hi, I'm [Your Name](https://yourwebsite.com) 👋, a passionate **DevOps Engineer** who loves automating workflows, building scalable infrastructures, and improving software delivery processes. I specialize in cloud technologies, CI/CD pipelines, and containerization.
+Hi, I'm [ASHISH PANDEY](https://yourwebsite.com) 👋, a passionate **DevOps Engineer** who loves automating workflows, building scalable infrastructures, and improving software delivery processes. I specialize in cloud technologies, CI/CD pipelines, and containerization.
 
 🔧 **Tech Stack:**
 - **Cloud:** AWS, Azure, GCP
@@ -18,13 +18,7 @@ I love collaborating on open-source projects and am always looking to learn new 
 
 ---
 
-## My Stats 📊
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&count_private=true&hide=prs)](https://github.com/your-username)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&langs_count=8)](https://github.com/your-username)
-
----
 
 ## 📣 Let's Connect!
 
@@ -71,6 +65,3 @@ I’m always open to discussions related to DevOps, automation, cloud computing,
 - ![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin) 
 - ![GitHub Badge](https://img.shields.io/github/followers/your-username?label=Follow&style=social) 
 
----
-
-> "The best way to predict the future is to invent it." - Alan Kay
