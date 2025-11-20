@@ -1,7 +1,7 @@
 <h1 align="center">Hey Everyone
 <div align="center">
-I'm Aditya Jaiswal</h1>
-<img src="https://github.com/jaiswaladi246/jaiswaladi246/blob/main/Banner.png" alt="DevOpsShack Banner"> </div>
+I'm Ashish Pandey</h1>
+<img src="Banner.png" alt="DevOpsShack Banner"> </div>
 I
 <h3 align="center">A passionate DevOps Engineer from India. I work in the Corporate IT Sector and in my free time I make YouTube videos at <a href="https://www.youtube.com/@devopsshack" target="_blank">DevOps Shack</a></h3>
 <p align="center">
