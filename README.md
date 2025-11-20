@@ -22,10 +22,9 @@ I love collaborating on open-source projects and am always looking to learn new 
 
 ## 📣 Let's Connect!
 
-- **Twitter:** [@your_twitter_handle](https://twitter.com/your_twitter_handle)
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/your-linkedin)
-- **Personal Website:** [yourwebsite.com](https://yourwebsite.com)
-- **Blog:** [yourblog.com](https://yourblog.com)
+
+- **LinkedIn:** (www.linkedin.com/in/ashish-pandey-620a86372)
+
 
 ---
 
