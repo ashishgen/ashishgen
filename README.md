@@ -1,10 +1,10 @@
-# Welcome to My GitHub Profile 👋
+z# Welcome to My GitHub Profile 👋
 
-![Banner](Blue Modern Corporate Staff Profile LinkedIn Banner.png)  <!-- Replace with your own banner image URL -->
+![Banner](https://example.com/Blue Modern Corporate Staff Profile LinkedIn Banner.png)  <!-- Replace with your own banner image URL -->
 
 ## About Me 🧑‍💻
 
-Hi, I'm [Your Name](https://yourwebsite.com) 👋, a passionate **DevOps Engineer** who loves automating workflows, building scalable infrastructures, and improving software delivery processes. I specialize in cloud technologies, CI/CD pipelines, and containerization.
+Hi, I'm [ASHISH PANDEY](https://yourwebsite.com) 👋, a passionate **DevOps Engineer** who loves automating workflows, building scalable infrastructures, and improving software delivery processes. I specialize in cloud technologies, CI/CD pipelines, and containerization.
 
 🔧 **Tech Stack:**
 - **Cloud:** AWS, Azure, GCP
