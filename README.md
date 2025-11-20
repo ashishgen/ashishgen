@@ -70,4 +70,3 @@ I’m always open to discussions related to DevOps, automation, cloud computing,
 
 ---
 
-> "The best way to predict the future is to invent it." - Alan Kay
