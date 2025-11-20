@@ -40,7 +40,7 @@ I love collaborating on open-source projects and am always looking to learn new 
 •Implemented CI/CD pipeline using Git, Jenkins, Terraform, Ansible, Docker, and Kubernetes
 •Implemented automated deployment and scaling strategies for containerized applications to ensure rapid and
 dependable releases
-- [Project 4](https://github.com/your-username/project-4) - Project 4: Containerized Application Deployment (May 2025)
+- [Project 4](https://github.com/ashishgen/Containerized-Application-Deployment.git) - Project 4: Containerized Application Deployment (May 2025)
 •Automated deployment and scaling across multiple workers using Jenkins, Docker, Kubernetes, and Java
 •Achieved seamless operations without changes to existing Docker containers in test environments
  releases
