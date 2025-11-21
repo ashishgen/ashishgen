@@ -44,7 +44,7 @@ dependable releases
 •Automated deployment and scaling across multiple workers using Jenkins, Docker, Kubernetes, and Java
 •Achieved seamless operations without changes to existing Docker containers in test environments
  releases
-- [Project 5](https://github.com/your-username/project-5) -  Project 5: Azure Administrator Project Az (August 2025)
+- [Project 5](https://github.com/ashishgen/Azure-Administrator-Project-Az.git) -  Project 5: Azure Administrator Project Az (August 2025)
 •Deployed three web pages with Application Gateway, Traffic Manager, and VNet Peering across regions
 •Integrated GitHub-based deployments with scripts to enable secure, multi-region web hosting
 Feel free to explore and star ⭐ any repositories you find interesting!
